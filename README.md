@@ -1,2 +1,2 @@
 # SMART-DECIPLANE
-kelompok 3
+kelompok 2
